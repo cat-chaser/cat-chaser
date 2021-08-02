@@ -1,0 +1,27 @@
+<html>
+<head>
+	<title> Confirmation </title>
+
+<style>
+    .body {
+        background: #F9E79F;
+    }
+
+    #thankYou {
+    	font-family: Verdana;
+    	font-weight: bold;
+    	font-size: 25px;
+    	padding: 300 0 0 0px;
+    }
+
+</style>
+</head>
+
+<body class="body">
+<center>
+
+   <p id="thankYou">THANKS FOR YOUR RESPONSE!</p>
+
+</center>
+</body>
+</html>  
