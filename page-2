@@ -1,0 +1,288 @@
+<html>
+	<title>
+		Next page
+		</title>
+	
+<head>
+</head>
+
+<body>
+<center>
+
+<table style="width:65%" border="1" cellspacing="0" cellpadding="5">
+<form action="submit.html" method="get">
+
+	<tr>
+		
+			<tr>
+				<td colspan="3" align="center" bgcolor="yellow"><b> III. EMPLOYMENT PROFILE </b></td>
+			</tr>
+		<td> <br>
+			 &nbsp; if <b> Employed, </b> please answer the suceeding questions. <br><br>
+			
+			 &nbsp; 16. What is your job status? <br>
+			 &nbsp; <input type="radio" name="jobstatus" value="Regular/Permanent" required> Regular/Permanent </input> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+			 &nbsp; <input type="radio" name="jobstatus" value="Casual/Contractual" required> Casual/Contractual </input> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+			 &nbsp; <input type="radio" name="jobstatus" value="Part-time" required>Part-time </input>
+			 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input type="radio" name="jobstatus" value="others" required> others, Pls. specify <input type="textbox" placeholder="Enter here" style="width:16%">
+			<br>
+			<br>
+			 &nbsp; 17. <b> Gross Monthly Earnings </b><br>
+			 &nbsp; <input type="radio" name="gme" value="P10,000 Below" required> P10,000 Below </input> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+			 &nbsp; <input type="radio" name="gme" value="P10,001-20,000" required> P10,001-20,000 </input> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+			 &nbsp; <input type="radio" name="gme" value="P20,001-30,000" required> P20,001-30,000 </input> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+			 &nbsp; <input type="radio" name="gme" value="P30,001 up" required> P30,001 up </input> <br>
+			<br>
+			
+		</td>
+	</tr>
+	
+		<tr>
+			<td>
+				&nbsp; 18.<b> Job Level Position: </b><br>
+				
+				<br>
+				&nbsp; <b> Job Level</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+				&nbsp; <b> First Job</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+				&nbsp; <b> Current or Present Job</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+				<br>
+		
+				&nbsp; <input type="checkbox"> Rank-and-File or Clerical &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+				<input type="radio" name="1job" value="1" required> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+				<input type="radio" name="presjob" value="1">
+				<br>
+				&nbsp; <input type="checkbox"> Professional, Technical or Supervisory &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+				<input type="radio" name="1job" value="2"  required> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+				<input type="radio" name="presjob" value="2"  required>
+				<br>
+				&nbsp; <input type="checkbox"> Manage or Executive &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+				<input type="radio" name="1job" value="3" required> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+				<input type="radio" name="presjob" value="3" required>
+				<br>
+				&nbsp; <input type="checkbox"> Self-employed &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+				<input type="radio" name="1job" value="4" required> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+				<input type="radio" name="presjob" value="4" required>
+				<br>
+				<br>
+			</td>
+		</tr>
+
+		<tr>
+		
+			<td>
+				&nbsp; if <b> Unemployed or never been employed, </b> kindly answer question 19, 29 and 21 and ignore the succeeding questions. <br>
+				<br>
+				&nbsp; 19. Please identify the reason/s why you are not (yet) employed. <i> You may check more than one answer. </i> <br>
+				&nbsp; <input type="checkbox"> No Job opportunity &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+				&nbsp; <input type="checkbox"> Health-related reason
+				<br>
+				&nbsp; <input type="checkbox"> Family concern &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+				&nbsp; <input type="checkbox"> Advance or further studies
+				&nbsp;&nbsp;&nbsp; <input type="checkbox"> others, Pls. specify <input type="textbox" placeholder="Enter here" style="width:16%">
+				<br>
+				<br>
+			</td>
+		</tr>
+		
+		<tr>
+			
+			<td><br>
+				&nbsp; 20. if <b> Self-Employed, </b> Gross Monthly Earnings <br>
+				
+				&nbsp; <input type="radio" name="gmes" value="P10,000 Below" required> P10,000 Below &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+				&nbsp; <input type="radio" name="gmes" value="P10,001-20,000" required> P10,001-20,000 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+				&nbsp; <input type="radio" name="gmes" value="P20,001-30,000" required> P20,001-30,000 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+				&nbsp; <input type="radio" name="gmes" value="P30,001 up" required> P30,001 up <br>
+				<br>
+			</td>
+		</tr>
+		
+		<tr>
+			<td><br>
+				&nbsp; 21. Name & Address of Company: <input type="textbox" placeholder="Enter the name and address of your company" style="width:75%" required>
+				<br>
+				<br>
+			</td>
+		</tr>
+		
+		<tr>
+			
+			<td><br>
+				&nbsp; 22. Type of Agency: &nbsp; 
+					<input type="radio" name="agency" value="1" required> Public/Government &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+					<input type="radio" name="agency" value="2" required> Private/NGO &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+					<input type="radio" name="agency" value="3" required> others, Pls. specify <input type="textbox" placeholder="Enter here" style="width:25%">
+				<br>
+				<br>
+			</td>
+		</tr>
+		
+		<tr>
+			
+			<td><br>
+				&nbsp; 23. Place/Area of Work: &nbsp; 
+					<input type="radio" name="area" value="1" required> Local &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+					<input type="radio" name="area" value="2" required> International, Pls. specify the Country? <input type="textbox" placeholder="Enter here" style="width:25%">
+				<br>
+				<br>
+			</td>
+		</tr>
+		
+	
+			<table style="width:65%" border="1" cellspacing="0" cellpadding="0">
+			
+			<tr>
+			<td colspan="3"> 
+			<br>
+			 &nbsp; 24. Nature of Industry/ Company (Pls. check)
+			<br>
+			<br>
+			</td>
+		</tr>
+		
+				<tr>
+					<td> &nbsp; <input type="checkbox"> Academic </td>
+					<td> &nbsp; <input type="checkbox"> Energy/ Utilities </td>
+					<td> &nbsp; <input type="checkbox"> Telecoms/ Communications </td>
+				</tr>
+					
+					<tr>
+						<td> &nbsp; <input type="checkbox"> Advertising </td>
+						<td> &nbsp; <input type="checkbox"> Entertainment </td>
+						<td> &nbsp; <input type="checkbox"> Trade </td>
+					</tr>
+						
+							
+						<tr>
+							<td> &nbsp; <input type="checkbox"> Agriculture/ Environmental </td>
+							<td> &nbsp; <input type="checkbox"> Financial Service </td>
+							<td> &nbsp; <input type="checkbox"> Legal </td>
+						</tr>
+						
+
+						<tr>
+							<td> &nbsp; <input type="checkbox"> Architecture firms </td>
+							<td> &nbsp; <input type="checkbox"> Food & Beverage </td>
+							<td> &nbsp; <input type="checkbox"> Packaging </td>
+						</tr>
+						
+	
+						<tr>
+							<td> &nbsp; <input type="checkbox"> Banking & Finance </td>
+							<td> &nbsp; <input type="checkbox"> Government </td>
+							<td> &nbsp; <input type="checkbox"> Petrochemicals </td>
+						</tr>
+
+						
+						<tr>
+							<td> &nbsp; <input type="checkbox"> BPO </td>
+							<td> &nbsp; <input type="checkbox"> Insurance </td>
+							<td> &nbsp; <input type="checkbox"> Retail </td>
+						</tr>
+	
+						
+						<tr>
+							<td> &nbsp; <input type="checkbox"> Chemicals </td>
+							<td> &nbsp; <input type="checkbox"> IT/ Computer/ Software </td>
+							<td> &nbsp; <input type="checkbox"> Services </td>
+						</tr>
+						
+						
+						<tr>
+							<td> &nbsp; <input type="checkbox"> Construction/ Engineering </td>
+							<td> &nbsp; <input type="checkbox"> Machinery/ Equipment </td>
+							<td> &nbsp; <input type="checkbox"> Textiles </td>
+						</tr>
+						
+						
+						<tr>
+							<td> &nbsp; <input type="checkbox"> Consultancy </td>
+							<td> &nbsp; <input type="checkbox"> Manufacturing </td>
+							<td> &nbsp; <input type="checkbox"> Transport </td>
+						</tr>
+						
+						
+						<tr>
+							<td> &nbsp; <input type="checkbox"> Consumer Goods </td>
+							<td> &nbsp; <input type="checkbox"> Marketing Research </td>
+							<td> &nbsp; <input type="checkbox"> Pharmaceuticals/ Medical </td>
+						</tr>
+						
+						<tr>
+							<td> &nbsp; <input type="checkbox"> Cosmetics </td>
+							<td> &nbsp; <input type="checkbox"> Media </td>
+							<td> &nbsp; <input type="checkbox"> Tourism/ Travel/ Leisure </td>
+						</tr>
+						
+						<tr>
+							<td> &nbsp; <input type="checkbox"> Electronics/ Electrical </td>
+							<td> &nbsp; <input type="checkbox"> Motor Industry </td>
+							<td> &nbsp; <input type="checkbox"> Real Estate </td>
+						</tr>
+						
+						<tr>
+							<td colspan="3">
+							&nbsp; <input type="checkbox"> Others, pls. specify &nbsp; <input type="textbox" placeholder="Enter here" style="width:25%">
+							</td>
+						</tr>
+			</table>
+			
+		<table style="width:65%" border="1" cellspacing="0" cellpadding="0">
+		<tr>
+			<td><br>
+				&nbsp; 25. How long have you been in your present job? <br>
+				
+				&nbsp; <input type="radio" name="years" value="1" required> Less than 2 years &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+				&nbsp; <input type="radio" name="years" value="2" required> 2 years, less than 4 years &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+				&nbsp; <input type="radio" name="years" value="3" required> 4 years 
+				<br>
+				<br>
+			</td>
+		</tr>
+		
+		<tr>
+			<td><br> 
+			&nbsp; 26. Is your present job related to your course? &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+			<input type="radio" name="related" value="Yes" required> Yes </input>
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+			<input type="radio" name="related" value="No" required> No </input>
+			<br>
+			<br>
+			</td>
+		</tr>
+		
+		<tr>
+		
+			<td>
+
+				&nbsp; 27. What competencies learned in college do you find most useful in your job? <i> You may check more than one answer. </i> <br>
+				<br>
+				&nbsp; <input type="checkbox"> Communication Skills &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+				&nbsp; <input type="checkbox"> Problem Solving Skills &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+				&nbsp; <input type="checkbox"> Entreprenurial Skills
+				<br>
+				&nbsp; <input type="checkbox"> Human Relation Skills &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+				&nbsp; <input type="checkbox"> Critical Thinking Skills &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+				&nbsp; <input type="checkbox"> Information Technology Skills
+				<br><br>
+				&nbsp; <input type="checkbox"> others, Pls. specify <input type="textbox" placeholder="Enter here" style="width:25%">
+				<br><br>
+			</td>
+		</tr>
+		
+		</table>
+		<br>
+		
+		<form>
+
+		<input type="reset" value="CLEAR">
+		&nbsp;&nbsp;&nbsp;
+		<input type="submit" value="SUBMIT">
+		<br><br>
+
+
+</form>		
+</table>
+</center>
+</body>
+</html>
